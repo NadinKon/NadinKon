@@ -14,7 +14,7 @@
 </p>
 
 ### Key points
-*   Currently working in Upwork
+*   Currently working on Upwork
 
 ### 🛠 Technical Stack
 *   Python
