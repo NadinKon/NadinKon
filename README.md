@@ -18,5 +18,5 @@
 
 ### 🛠 Technical Stack
 *   Python
-*   MySQL
+*   SQL
 *   GitHub
