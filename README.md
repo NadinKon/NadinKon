@@ -1,6 +1,6 @@
 # Hi, I'm Nadia 👋
-✨I am a beginner python developer.
-✨I can independently understand and look for ways to solve the problem, work in a team, also due to previous work experience I have many useful skills and knowledge (fast processing of information, creativity, ability to express one’s opinion, think critically, make responsible decisions, adapt to the situation).
+✨I am a Python Backend Developer.
+✨I can independently understand and look for ways to solve the problem, work in a team, think critically, take responsibility for the solution, adapt to the situation.
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/nadin-kontsinebina-2a8945229/">
@@ -16,7 +16,10 @@
 ### Key points
 *   Currently working on Upwork
 
-### 🛠 Technical Stack
-*   Python
-*   SQL
-*   GitHub
+### 🛠 What is done
+*   Telegram bot (applied: aiogram, sqlite_db)
+*   Web Scraper (applied: BeautifulSoup,  selenium, json, requests, scrapy)
+*   Converter "Pdf to mp3" en/ru (applied: pdfplumber, tprint, gTTS)
+*   Password generator (applied: CustomTkinter, Tkinter, PIL, pygame, Nuitka)
+*   Multilingual translator (applied: BeautifulSoup, requests, sys)
+*   Mini-blog using Django, in progress... (applied: Django, sqlite_db ...)
