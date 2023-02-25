@@ -22,4 +22,5 @@
 *   Converter "Pdf to mp3" en/ru (applied: pdfplumber, tprint, gTTS)
 *   Password generator (applied: CustomTkinter, Tkinter, PIL, pygame, Nuitka)
 *   Multilingual translator (applied: BeautifulSoup, requests, sys)
+*   Voice Assistant (applied: speech_recognition)
 *   Mini-blog using Django, in progress... (applied: Django, sqlite_db ...)
