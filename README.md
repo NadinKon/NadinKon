@@ -1,6 +1,6 @@
-# Hi, I'm Nadia 👋
-✨I am a Python Backend Developer.
-✨I can independently understand and look for ways to solve the problem, work in a team, think critically, take responsibility for the solution, adapt to the situation.
+# Hi 👋
+
+📌For the last 2 years, I work with all major libraries in Python.
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/nadin-kontsinebina-2a8945229/">
