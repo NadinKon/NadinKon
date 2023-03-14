@@ -17,6 +17,7 @@
 *   Currently working on Upwork
 
 ### 🛠 What is done
+*   A script for automating the process of analyzing reviews with scoring (applied: openai library) 
 *   Telegram bot (applied: aiogram, sqlite_db)
 *   Web Scraper (applied: BeautifulSoup,  selenium, json, requests, scrapy)
 *   Converter "Pdf to mp3" en/ru (applied: pdfplumber, tprint, gTTS)
