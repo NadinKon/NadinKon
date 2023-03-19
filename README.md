@@ -1,6 +1,6 @@
-# Hi 👋
+# Hello Python! 👋
 
-📌For the last 2 years, I work with all major libraries in Python.
+📌 "Simplicity is a prerequisite for reliability." - Edsger Dijkstra
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/nadin-kontsinebina-2a8945229/">
@@ -25,3 +25,6 @@
 *   Multilingual translator (applied: BeautifulSoup, requests, sys)
 *   Voice Assistant (applied: speech_recognition)
 *   Mini-blog using Django, in progress... (applied: Django, sqlite_db ...)
+*   ...
+*   ...
+*   ...
