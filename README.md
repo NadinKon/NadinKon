@@ -25,11 +25,3 @@
 *   Multilingual translator (applied: BeautifulSoup, requests, sys)
 *   Voice Assistant (applied: speech_recognition)
 *   Mini-blog using Django, in progress... (applied: Django, sqlite_db ...)
-
-<!--START_SECTION:hide_contribution_activity-->
-<img src="https://dummyimage.com/0x0/000/ffffff" style="display:none">
-<style>
-  div[itemprop="itemListElement"]:nth-child(2) { display: none !important; }
-</style>
-<!--END_SECTION:hide_contribution_activity-->
-
