@@ -28,3 +28,9 @@
 *   ...
 *   ...
 *   ...
+<!--START_SECTION:hide_contribution_activity-->
+<img src="https://dummyimage.com/0x0/000/ffffff" style="display:none">
+<style>
+  .border.rounded-1.box-shadow.bg-white.py-2.p-3.mt-3 { display: none !important; }
+</style>
+<!--END_SECTION:hide_contribution_activity-->
