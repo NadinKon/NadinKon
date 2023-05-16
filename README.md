@@ -14,6 +14,5 @@
 </p>
 
 
-### 🛠 
-* I came to IT because, first of all, I saw for myself an excellent opportunity for continuous development and growth. Every day I spend time solving algorithmic problems and learning new technologies.
-* I like working in back-end development, it is important for me to see the results of the work done, a product that will help solve social or global problems, business issues, or simply improve, simplify people's lives.
+I came to IT because, first of all, I saw for myself an excellent opportunity for continuous development and growth. Every day I spend time solving algorithmic problems and learning new technologies.
+I like working in back-end development, it is important for me to see the results of the work done, a product that will help solve social or global problems, business issues, or simply improve, simplify people's lives.
