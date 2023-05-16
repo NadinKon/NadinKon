@@ -1,4 +1,4 @@
-# Hello Python! 👋
+## Hello everyone! 👋
 
 📌 "Simplicity is a prerequisite for reliability." - Edsger Dijkstra
 
@@ -13,15 +13,7 @@
    📫 How to reach me: <a href='mailto:nadezda.work.mail@gmail.com'>nadezda.work.mail@gmail.com</a>
 </p>
 
-### Key points
-*   Currently working on Upwork
 
-### 🛠 What is done
-*   A script for automating the process of analyzing reviews with scoring (applied: openai library) 
-*   Telegram bot (applied: aiogram, sqlite_db)
-*   Web Scraper (applied: BeautifulSoup,  selenium, json, requests, scrapy)
-*   Converter "Pdf to mp3" en/ru (applied: pdfplumber, tprint, gTTS)
-*   Password generator (applied: CustomTkinter, Tkinter, PIL, pygame, Nuitka)
-*   Multilingual translator (applied: BeautifulSoup, requests, sys)
-*   Voice Assistant (applied: speech_recognition)
-*   Mini-blog using Django, in progress... (applied: Django, sqlite_db ...)
+### 🛠 
+* I came to IT because, first of all, I saw for myself an excellent opportunity for continuous development and growth. Every day I spend time solving algorithmic problems and learning new technologies.
+* I like working in back-end development, it is important for me to see the results of the work done, a product that will help solve social or global problems, business issues, or simply improve, simplify people's lives.
